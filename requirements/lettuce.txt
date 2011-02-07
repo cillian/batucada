@@ -1,0 +1,5 @@
+-r prod.txt
+
+lettuce==0.1.19
+
+-e git://github.com/cillian/splinter.git#egg=splinter
